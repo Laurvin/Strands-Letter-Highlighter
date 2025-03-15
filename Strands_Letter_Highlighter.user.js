@@ -5,8 +5,9 @@
 // @description Highlights all instances of a letter in the grid of a Strands game.
 // @version 1.0
 // @icon http://i.imgur.com/XYzKXzK.png
+// @downloadURL https://github.com/Laurvin/Strands-Letter-Highlighter/raw/refs/heads/main/Strands_Letter_Highlighter.user.js
+// @updateURL https://github.com/Laurvin/Strands-Letter-Highlighter/raw/refs/heads/main/Strands_Letter_Highlighter.user.js
 // @match https://www.nytimes.com/games/strands*
-// @grant GM_addStyle
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @run-at document-idle
 // ==/UserScript==
